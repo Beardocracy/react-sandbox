@@ -1,2 +1,2 @@
 # react-sandbox
-Udemy course: Modern React with Redux (Stephen Grider)
+Udemy course: Modern React with Redux (Stephen Grider).
